@@ -1,0 +1,16 @@
+To run the pokephind:
+
+1. Install wx:perl on your system.
+2. Extract all files into a file directory.
+	The files include: selectionscreen.pl
+			   gameboard.pl
+			   generation.pl
+			   newmenuscreen.pl
+			   6 generation.txt files
+			   BattleMusic.wav
+
+3. Open the command terminal on your system.
+4. type -> "chmod 755 selectionscreen.pl" without the quotes and press enter,
+   continue this for all 4 xx.pl files
+5. Run selectionscreen.pl by typing "./selectionscreen.pl" without the quotes and press enter.
+6. Enjoy
